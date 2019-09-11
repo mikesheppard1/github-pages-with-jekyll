@@ -1,5 +1,5 @@
 ---
-title: "Future of Tesla"
+title: "future of Tesla"
 date: 2019-09-10
 ---
 
